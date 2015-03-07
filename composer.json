@@ -1,0 +1,13 @@
+{
+    "name": "ice9js/graph-exercise",
+    "require-dev": {
+        "phpunit/phpunit": "~4.5"
+    },
+    "license": "None",
+    "authors": [
+        {
+            "name": "Kuba Birecki",
+            "email": "kuba.birecki@crystalplanet-studio.com"
+        }
+    ]
+}
